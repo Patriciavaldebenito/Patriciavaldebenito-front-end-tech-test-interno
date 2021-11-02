@@ -1,6 +1,6 @@
 # Prueba tecnica Front Ecomsur 2021
 
-### Por favor, empezar la prueba después de haber leído este documento completo.
+## Por favor, empezar la prueba después de haber leído este documento completo.
 
   - [Requerimientos mínimos](#requerimientos-mínimos)
   - [Instalar y Correr la aplicación](#instalar-y-correr-la-aplicación)
